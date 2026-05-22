@@ -17,7 +17,6 @@ function MainPage() {
       <PortfolioGrid />
       <DevToBlogFeed />
       <ContactForm />
-      
       {/* <ContactMe /> */}
     </div>
   );
